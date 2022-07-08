@@ -16,7 +16,7 @@ public class HashMapMain {
         }
 //        int frequency = hashMap.get("to");
 //        System.out.println(frequency);
-        hashMap.remove("avoidable");gir
+        hashMap.remove("avoidable");
         System.out.println(hashMap);
     }
 }
